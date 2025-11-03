@@ -1,0 +1,31 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/online_learn?useUnicode=true&characterEncoding=utf8
+    username: root
+    password: ""
+server:
+  servlet:
+    session:
+      timeout: 10m
+mail:
+  user: 2110147357@qq.com
+  password: tiyxgicgkpqbbbdf
+  host: smtp.qq.com
+  port: 587
+  properties:
+    mail:
+      smtp:
+        ssl:
+          enable: true
+          required: true
+        auth: true
+        starttls:
+          enable: true
+          required: true
+        socketFactory:
+          port: 587
+          class: javax.net.ssl.SSLSocketFactory
+          fallback: false
+
+
