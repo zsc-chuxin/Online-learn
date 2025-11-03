@@ -1,0 +1,46 @@
+/* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+    font-family: 'iconfont';  /* Project id 4729436 */
+    src: url('//at.alicdn.com/t/c/font_4729436_jnfqt85kbm.woff2?t=1730337720494') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4729436_jnfqt85kbm.woff?t=1730337720494') format('woff'),
+    url('//at.alicdn.com/t/c/font_4729436_jnfqt85kbm.ttf?t=1730337720494') format('truetype');
+}
+/* 在线链接服务仅供平台体验和调试使用，平台不承诺服务的稳定性，企业客户需下载字体包自行发布使用并做好备份。 */
+@font-face {
+    font-family: 'iconfont';  /* Project id 4716819 */
+    src: url('//at.alicdn.com/t/c/font_4716819_85eleydpjtq.woff2?t=1730614892665') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4716819_85eleydpjtq.woff?t=1730614892665') format('woff'),
+    url('//at.alicdn.com/t/c/font_4716819_85eleydpjtq.ttf?t=1730614892665') format('truetype');
+}
+@font-face {
+    font-family: 'iconfont';  /* Project id 4733027 */
+    src: url('//at.alicdn.com/t/c/font_4733027_rubq3z4kxsb.woff2?t=1730642924664') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4733027_rubq3z4kxsb.woff?t=1730642924664') format('woff'),
+    url('//at.alicdn.com/t/c/font_4733027_rubq3z4kxsb.ttf?t=1730642924664') format('truetype');
+}
+@font-face {
+    font-family: 'iconfont';  /* Project id 4734368 */
+    src: url('//at.alicdn.com/t/c/font_4734368_ziy12t428v.woff2?t=1731734161090') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4734368_ziy12t428v.woff?t=1731734161090') format('woff'),
+    url('//at.alicdn.com/t/c/font_4734368_ziy12t428v.ttf?t=1731734161090') format('truetype');
+}
+@font-face {
+    font-family: 'iconfont';  /* Project id 4747105 */
+    src: url('//at.alicdn.com/t/c/font_4747105_ebis5vqwk5.woff2?t=1734076093198') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4747105_ebis5vqwk5.woff?t=1734076093198') format('woff'),
+    url('//at.alicdn.com/t/c/font_4747105_ebis5vqwk5.ttf?t=1734076093198') format('truetype');
+}
+@font-face {
+    font-family: 'iconfont';  /* Project id 4773145 */
+    src: url('//at.alicdn.com/t/c/font_4773145_ebybkjjaxq.woff2?t=1733488619156') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4773145_ebybkjjaxq.woff?t=1733488619156') format('woff'),
+    url('//at.alicdn.com/t/c/font_4773145_ebybkjjaxq.ttf?t=1733488619156') format('truetype');
+}
+.iconfont{
+    font-family: "iconfont"!important;
+    font-size: 20px;font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    color: red;
+    /*-webkit-text-stroke-width: 0.2px;*/
+    -moz-osx-font-smoothing: grayscale;
+}
