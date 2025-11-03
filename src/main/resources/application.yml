@@ -3,14 +3,14 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/online_learn?useUnicode=true&characterEncoding=utf8
     username: root
-    password: ""
+    password: 
 server:
   servlet:
     session:
       timeout: 10m
 mail:
-  user: 2110147357@qq.com
-  password: tiyxgicgkpqbbbdf
+  user: //你的邮箱地址
+  password: 
   host: smtp.qq.com
   port: 587
   properties:
